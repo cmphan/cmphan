@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Cuong Phan. I'm a Full Stack Software Engineer. 
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmphan&show_icons=true&hide_border=true" />
 <!--
 **cmphan/cmphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
