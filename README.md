@@ -6,6 +6,7 @@ My name is Cuong Phan. I'm a Full Stack Software Engineer.
 - 📫 How to reach me: 
      - My website: http://www.cmphan.com/profile/
      - My LinkedIn: https://www.linkedin.com/in/cmphan 
+     - My email: cmphan7@gmail.com
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmphan&show_icons=true&hide_border=true" />
 <!--
