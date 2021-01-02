@@ -1,5 +1,11 @@
 ### Hi there 👋
 My name is Cuong Phan. I'm a Full Stack Software Engineer. 
+- 🔭 I’m currently working at Toshiba International Corporation to advance their technologies. 
+- 🌱 I’m currently strengthening my programming knowledge by building some side projects: an ecommerce website in ASP.NET, an AI app to automate tax preparation process.   
+- 👯 I’m looking to collaborate on scalable projects. 
+- 📫 How to reach me: 
+      My website: http://www.cmphan.com/profile/
+      My LinkedIn: https://www.linkedin.com/in/cmphan
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmphan&show_icons=true&hide_border=true" />
 <!--
